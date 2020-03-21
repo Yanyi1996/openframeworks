@@ -1,0 +1,3 @@
+ofxMaxim
+ofxRapidLib
+ofxVoiceController

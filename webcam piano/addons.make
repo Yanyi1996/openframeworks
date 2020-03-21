@@ -1,0 +1,4 @@
+ofxFboBlur
+ofxKinect
+ofxOpenCv
+ofxPS3EyeGrabber
